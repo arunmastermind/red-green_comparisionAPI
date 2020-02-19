@@ -1,0 +1,1 @@
+{'_id': {'$oid': '5e295a7ba19b4d3cd3cd3609'}, 'testsRun': 2597, 'testsPassed': 2597, 'buildURL': 'http://onega:8080/job/qa/job/JCK/job/jck/5553/', 'build': 'build 1.8.0-zing_99.99.99.99.dev-b3020-optimized-linux-X86_64, mixed mode', 'failures': [], 'suite': 'JCK-runtime-8b', 'config': {'name': 'C2_Tall'}, 'rerunCount': 1, 'cycle': 'Silver'}
